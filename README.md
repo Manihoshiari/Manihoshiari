@@ -1,17 +1,66 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Manihoshiari/Manihoshiari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```
+â–ˆâ–ˆâ–ˆâ•—   â–ˆâ–ˆâ–ˆâ•— â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ•— â–ˆâ–ˆâ–ˆâ•—   â–ˆâ–ˆâ•—â–ˆâ–ˆâ•—
+â–ˆâ–ˆâ–ˆâ–ˆâ•— â–ˆâ–ˆâ–ˆâ–ˆâ•‘â–ˆâ–ˆâ•”â•â•â–ˆâ–ˆâ•—â–ˆâ–ˆâ–ˆâ–ˆâ•—  â–ˆâ–ˆâ•‘â–ˆâ–ˆâ•‘
+â–ˆâ–ˆâ•”â–ˆâ–ˆâ–ˆâ–ˆâ•”â–ˆâ–ˆâ•‘â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ•‘â–ˆâ–ˆâ•”â–ˆâ–ˆâ•— â–ˆâ–ˆâ•‘â–ˆâ–ˆâ•‘
+â–ˆâ–ˆâ•‘â•šâ–ˆâ–ˆâ•”â•â–ˆâ–ˆâ•‘â–ˆâ–ˆâ•”â•â•â–ˆâ–ˆâ•‘â–ˆâ–ˆâ•‘â•šâ–ˆâ–ˆâ•—â–ˆâ–ˆâ•‘â–ˆâ–ˆâ•‘
+â–ˆâ–ˆâ•‘ â•šâ•â• â–ˆâ–ˆâ•‘â–ˆâ–ˆâ•‘  â–ˆâ–ˆâ•‘â–ˆâ–ˆâ•‘ â•šâ–ˆâ–ˆâ–ˆâ–ˆâ•‘â–ˆâ–ˆâ•‘
+â•šâ•â•     â•šâ•â•â•šâ•â•  â•šâ•â•â•šâ•â•  â•šâ•â•â•â•â•šâ•â•
+```
 
-Here are some ideas to get you started:
+### hey, i'm **Manihoshiari** ðŸ‘¾
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-![Snake animation](https://raw.githubusercontent.com/Manihoshiari/Manihoshiari/output/github-contribution-grid-snake-dark.svg)
+*building things, breaking things, learning everything in between*
+
+---
+
+![Profile Views](https://komarev.com/ghpvc/?username=Manihoshiari&color=blueviolet&style=flat-square)
+
+</div>
+
+---
+
+## ðŸ§  about me
+
+```yaml
+name: Mani Hoshiari
+status: always learning
+currently: building cool stuff
+interests:
+  - coding
+  - open source
+  - problem solving
+```
+
+---
+
+## ðŸ› ï¸ tools & tech
+
+> *I work with whatever gets the job done.*
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Manihoshiari&show_icons=true&theme=tokyonight&hide_border=true)
+
+---
+
+## ðŸ“Œ featured projects
+
+| project | description |
+|--------|-------------|
+| ðŸš€ coming soon... | stay tuned! |
+
+---
+
+## ðŸ“« get in touch
+
+- GitHub: [@Manihoshiari](https://github.com/Manihoshiari)
+
+---
+
+<div align="center">
+
+*"first, solve the problem. then, write the code."*
+
+â­ feel free to explore my repos!
+
+</div>
