@@ -2,9 +2,19 @@
 
 # 👋 Hey, I'm Mani
 
-### Frontend Developer • Angular Enthusiast • UI Lover
+### Frontend Developer • Angular Enthusiast • UI/UX Lover
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Frontend+Developer;Angular+Developer;UI+%2F+UX+Lover;Always+Learning+New+Things" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=450&lines=Frontend+Developer;Angular+Developer;UI%2FUX+Lover;Clean+Code+Enthusiast;Always+Learning+New+Things" />
+
+</div>
+
+---
+
+## 👀 Profile Views
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=Manihoshiari&label=Profile%20Views&color=0e75b6&style=flat" />
 
 </div>
 
@@ -12,13 +22,11 @@
 
 ## 🚀 About Me
 
-✨ I love building modern, responsive, and interactive web applications with clean UI/UX.
-
 - 🎯 Focused on Frontend Development  
 - ⚡ Angular & Modern JavaScript enthusiast  
-- 🎨 Passionate about UI/UX & clean design  
-- 🧠 Always learning new technologies  
-- 🌍 Building real-world frontend projects  
+- 🎨 UI/UX lover & clean design addict  
+- 🧠 Always learning & improving  
+- 🌍 Building real-world projects  
 
 ---
 
@@ -41,9 +49,10 @@
 </div>
 
 - Advanced Angular Architecture  
-- State Management & Performance Optimization  
-- API Integration Best Practices  
-- Clean Code & Scalable Frontend Design  
+- State Management  
+- API Integration (REST / RxJS)  
+- Performance Optimization  
+- Clean & Scalable Code  
 
 ---
 
@@ -51,15 +60,39 @@
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg">
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg">
-</picture>
-
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=Manihoshiari&show_icons=true&theme=tokyonight" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manihoshiari&layout=compact&theme=tokyonight" />
 
 </div>
+
+---
+
+## 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=Manihoshiari&theme=tokyonight" />
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Manihoshiari&theme=tokyonight&margin-w=10&no-frame=true" />
+
+</div>
+
+---
+
+## 📌 Featured Projects
+
+- 🎮 Angular Tic Tac Toe (Real-time multiplayer)  
+- 🧮 JavaScript Calculator (Advanced UI + formatting)  
+- 🧠 Age & Gender Detection AI Model  
+- 🌐 Responsive Landing Pages with Tailwind  
 
 ---
 
