@@ -58,7 +58,7 @@
 </picture>
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=Manihoshiari&show_icons=true&theme=tokyonight" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manihoshiari&layout=compact&theme=tokyonight" />
+
 
 </div>
 
