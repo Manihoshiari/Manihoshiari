@@ -1,36 +1,31 @@
-name: Generate GitHub Contribution Snake
+name: generate snake
 
 on:
-  workflow_dispatch: # برای اجرای دستی
   schedule:
-    - cron: "0 */12 * * *" # اجرا هر 12 ساعت، اختیاری
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
 
 jobs:
-  build:
+  generate:
     runs-on: ubuntu-latest
     timeout-minutes: 10
-
     steps:
-      # 1️⃣ checkout ریپو
-      - name: Checkout repository
-        uses: actions/checkout@v4
-
-      # 2️⃣ ساخت SVG مار
-      - name: Generate Snake SVG
+      - name: generate snake svg
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
         env:
-          GITHUB_TOKEN: ${{ secrets.GH_PAT }} # از PAT استفاده کن
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      # 3️⃣ push فایل‌ها به branch output
-      - name: Push SVGs to output branch
-        uses: crazy-max/ghaction-github-pages@v3.3.0
+      - name: push to output branch
+        uses: peaceiris/actions-gh-pages@v3
         with:
-          build_dir: dist
-          target_branch: output
-        env:
-          GITHUB_TOKEN: ${{ secrets.GH_PAT }} # همان PAT
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./dist
+          publish_branch: output
