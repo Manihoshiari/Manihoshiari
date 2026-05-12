@@ -41,7 +41,7 @@
 </div>
 
 - Advanced Angular Architecture  
-- State Management & Performance Optimization  
+- **State Management (RxJS) — In Progress 🧠**  
 - API Integration Best Practices  
 - Clean Code & Scalable Frontend Design  
 
@@ -58,6 +58,27 @@
 </picture>
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=Manihoshiari&show_icons=true&theme=tokyonight" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manihoshiari&layout=compact&theme=tokyonight" />
+
+</div>
+
+---
+
+## 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=Manihoshiari&theme=tokyonight" />
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
 
 </div>
 
