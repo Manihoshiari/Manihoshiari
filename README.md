@@ -10,11 +10,11 @@
 
 ---
 
-## 👀 Profile Views
+## 🌊 Contribution Wave
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=Manihoshiari&label=Profile%20Views&color=0e75b6&style=flat" />
+<img src="https://github.com/Manihoshiari/Manihoshiari/blob/output/github-contribution-grid-snake-dark.svg" />
 
 </div>
 
@@ -22,82 +22,26 @@
 
 ## 🚀 About Me
 
+✨ I build modern, responsive, and interactive web applications with clean UI/UX.
+
 - 🎯 Focused on Frontend Development  
 - ⚡ Angular & Modern JavaScript enthusiast  
-- 🎨 UI/UX lover & clean design addict  
-- 🧠 Always learning & improving  
+- 🎨 Passionate about UI/UX & minimal design  
+- 🧠 Always learning new technologies  
 - 🌍 Building real-world projects  
 
 ---
 
-## 🛠️ Tech Stack
+## 📈 My Developer Journey
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,angular,tailwind,git,github,vscode,npm,vite" />
-
-</div>
-
----
-
-## 📚 Currently Learning
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=angular,ts,tailwind,git" />
-
-</div>
-
-- Advanced Angular Architecture  
-- State Management  
-- API Integration (REST / RxJS)  
-- Performance Optimization  
-- Clean & Scalable Code  
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Manihoshiari&show_icons=true&theme=tokyonight" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manihoshiari&layout=compact&theme=tokyonight" />
-
-</div>
-
----
-
-## 🔥 GitHub Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=Manihoshiari&theme=tokyonight" />
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Manihoshiari&theme=tokyonight&margin-w=10&no-frame=true" />
-
-</div>
-
----
-
-## 📌 Featured Projects
-
-- 🎮 Angular Tic Tac Toe (Real-time multiplayer)  
-- 🧮 JavaScript Calculator (Advanced UI + formatting)  
-- 🧠 Age & Gender Detection AI Model  
-- 🌐 Responsive Landing Pages with Tailwind  
-
----
-
-## 🌐 Connect With Me
-
+```text
+🟢 Beginner        → HTML, CSS Basics
+🟡 Junior          → JavaScript + Responsive Design
+🟠 Intermediate     → Angular + TypeScript + APIs
+🔵 Advanced        → Performance + Architecture
+🟣 Pro (Current)    → Scalable Angular Apps + Clean Architecture
 <div align="center">
 
 <a href="https://github.com/Manihoshiari">
