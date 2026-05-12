@@ -48,26 +48,14 @@
 
 ---
 
-# 🎮 Featured Project
-
-## 🐍 Snake Game
-
-A modern Snake Game built with frontend technologies.
-
-🚀 Live Demo:
-
-[https://manihoshiari.github.io/Manihoshiari/](https://manihoshiari.github.io/Manihoshiari/)
-
-🔗 Repository:
-
-[https://github.com/Manihoshiari/Manihoshiari](https://github.com/Manihoshiari/Manihoshiari)
-
----
-
 # 📊 GitHub Stats
 
 <div align="center">
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg">
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg">
+</picture>
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=Manihoshiari&show_icons=true&theme=tokyonight" />
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manihoshiari&layout=compact&theme=tokyonight" />
