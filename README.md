@@ -54,9 +54,13 @@
 
 A modern Snake Game built with frontend technologies.
 
-🔗 GitHub Repository:
+🚀 Live Demo:
 
-[https://github.com/Manihoshiari](https://github.com/Manihoshiari)
+[https://manihoshiari.github.io/Manihoshiari/](https://manihoshiari.github.io/Manihoshiari/)
+
+🔗 Repository:
+
+[https://github.com/Manihoshiari/Manihoshiari](https://github.com/Manihoshiari/Manihoshiari)
 
 ---
 
