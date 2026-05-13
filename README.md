@@ -15,7 +15,7 @@
 ✨ I love building modern, responsive, and interactive web applications with clean UI/UX.
 
 - 🎯 Focused on Frontend Development  
-- ⚡ Angular & Modern JavaScript enthusiast  
+- ⚡ Angular & JavaScript enthusiast  
 - 🎨 Passionate about UI/UX & minimal design  
 - 🧠 Always learning new technologies  
 - 🌍 Building real-world frontend projects  
@@ -26,7 +26,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,angular,tailwind,git,github,vscode,npm,vite" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,angular,tailwind,git,github,vscode,npm" />
 
 </div>
 
@@ -41,7 +41,7 @@
 </div>
 
 - Advanced Angular Architecture  
-- **State Management (RxJS) — In Progress 🧠**  
+- **State Management — In Progress 🧠**  
 - API Integration Best Practices  
 - Clean Code & Scalable Frontend Design  
 
